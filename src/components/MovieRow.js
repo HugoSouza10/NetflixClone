@@ -10,7 +10,7 @@ const MovieRow = ({title, items}) => {
     const handleLeftArrow = () => {
         let x = scrollX + Math.round(window.innerWidth /2);
 
-        if(scrollX > 0){
+        if(x > 0){
             x = 0;
         }
 
@@ -19,12 +19,14 @@ const MovieRow = ({title, items}) => {
 
     const handleRightArrow = () => {
         let x = scrollX - Math.round(window.innerWidth /2);
-        setScrollX(x);
+      
         let listW = items.results.length * 150;
 
         if((window.innerWidth - listW) > x) {
             x = (window.innerWidth - listW) -60
         }
+
+        setScrollX(x);
     }
     return(
         <div className="movieRow">
