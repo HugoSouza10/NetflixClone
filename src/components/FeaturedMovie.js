@@ -16,7 +16,7 @@ const FeaturedMovie = ({item}) => {
     let description = item.overview;
 
     if(description.lenght > 200) {
-        description = description+'...';
+        description = description.subtring(0, 200) + '...';
     }
     return(
         <section className="featured" style={{
