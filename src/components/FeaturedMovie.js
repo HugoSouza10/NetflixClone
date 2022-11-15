@@ -11,6 +11,13 @@ const FeaturedMovie = ({item}) => {
     for(let i in item.genres ) {
         genres.push(item.genres[i].name);
     }
+
+
+    let description = item.overview;
+
+    if(description.lenght > 200) {
+        description = description+'...';
+    }
     return(
         <section className="featured" style={{
             backgroundSize:'cover',
