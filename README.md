@@ -19,6 +19,11 @@ Este projeto é um clone da interface do Netflix, desenvolvido com React, TypeSc
 - **TypeScript:** Adiciona tipagem estática ao JavaScript para um desenvolvimento mais seguro.
 - **styled-components:** Biblioteca para estilização de componentes no React.
 
+## Responsivo:
+
+![image](https://github.com/HugoSouza10/NetflixClone/assets/51915862/cc437491-44d3-4912-9d0b-658927fdae25)
+
+
 ## Início Rápido
 
 1. Clone o repositório: `git clone https://github.com/HugoSouza10/NetflixClone`
