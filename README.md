@@ -1,6 +1,6 @@
 # Clone da Netflix
 
-[![Netflix Clone](url_da_imagem)](https://github.com/HugoSouza10/NetflixClone/issues/1#issue-2092227620)
+[[![Netflix Clone](url_da_imagem)](https://github.com/HugoSouza10/NetflixClone/issues/1#issue-2092227620)](https://github.com/HugoSouza10/NetflixClone/issues/1#issue-2092227620)
 
 ## Visão Geral
 
