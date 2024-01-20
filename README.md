@@ -29,7 +29,7 @@ Este projeto é um clone da interface do Netflix, desenvolvido com React, TypeSc
 ## Uso
 
 - Explore a interface familiar do Netflix.
-- Navegue pelos títulos, assista trailers e divirta-se!
+- Navegue pelos títulos, e carrosséis
 
 ## Contribuições
 
