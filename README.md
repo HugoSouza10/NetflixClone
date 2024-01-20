@@ -23,8 +23,8 @@ Este projeto é um clone da interface do Netflix, desenvolvido com React, TypeSc
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 50vh;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; width: 100%;">
-    <img width="50%" src="https://github.com/HugoSouza10/NetflixClone/assets/51915862/cc437491-44d3-4912-9d0b-658927fdae25" alt="Imagem 1">
-    <img width="50%" src="https://github.com/HugoSouza10/NetflixClone/assets/51915862/99bd1f6f-b737-44af-a266-41b9f6f8b756" alt="Imagem 2">
+    <img width="300px" src="https://github.com/HugoSouza10/NetflixClone/assets/51915862/cc437491-44d3-4912-9d0b-658927fdae25" alt="Imagem 1">
+    <img width="300px" src="https://github.com/HugoSouza10/NetflixClone/assets/51915862/99bd1f6f-b737-44af-a266-41b9f6f8b756" alt="Imagem 2">
   </div>
 </div>
 
