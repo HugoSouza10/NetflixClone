@@ -21,7 +21,7 @@ Este projeto é um clone da interface do Netflix, desenvolvido com React, TypeSc
 
 ## Início Rápido
 
-1. Clone o repositório: `git clone https://github.com/seu-nome/netflix-clone.git`
+1. Clone o repositório: `git clone https://github.com/HugoSouza10/NetflixClone`
 2. Instale as dependências: `npm install --force`
 3. Inicie o projeto: `npm start`
 4. Abra seu navegador e acesse `http://localhost:3000`
