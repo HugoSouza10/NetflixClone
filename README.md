@@ -21,7 +21,9 @@ Este projeto é um clone da interface do Netflix, desenvolvido com React, TypeSc
 
 ## Responsivo:
 
-![image](https://github.com/HugoSouza10/NetflixClone/assets/51915862/cc437491-44d3-4912-9d0b-658927fdae25) ![image](https://github.com/HugoSouza10/NetflixClone/assets/51915862/99bd1f6f-b737-44af-a266-41b9f6f8b756)
+![image](https://github.com/HugoSouza10/NetflixClone/assets/51915862/cc437491-44d3-4912-9d0b-658927fdae25) 
+
+![image](https://github.com/HugoSouza10/NetflixClone/assets/51915862/99bd1f6f-b737-44af-a266-41b9f6f8b756)
 
 
 
